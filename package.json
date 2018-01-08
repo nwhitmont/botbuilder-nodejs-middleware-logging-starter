@@ -1,0 +1,29 @@
+{
+  "name": "botbuilder-nodejs-middleware-logging-starter",
+  "version": "1.0.0",
+  "description": "logging middleware example",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwhitmont/botbuilder-nodejs-middleware-logging-starter.git"
+  },
+  "keywords": [
+    "botbuilder",
+    "nodejs",
+    "middleware",
+    "logging"
+  ],
+  "author": "N Whitmont",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nwhitmont/botbuilder-nodejs-middleware-logging-starter/issues"
+  },
+  "homepage": "https://github.com/nwhitmont/botbuilder-nodejs-middleware-logging-starter#readme",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "restify": "^6.3.4"
+  }
+}
